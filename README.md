@@ -67,6 +67,18 @@ gcc -Wall -Wextra -pedantic -std=c99 \
  
 ---
 
+## 👥 Integrantes do Grupo
+ 
+| Nome | Matrícula |
+|---|---|
+| Danielle G. Ferreira | ddaniferreira05 |
+| ... | ... |
+| ... | ... |
+| ... | ... |
+ 
+---
+
+
 ## Disciplina
  
 > Estruturas de Dados — [Nome da Instituição]
