@@ -69,12 +69,12 @@ gcc -Wall -Wextra -pedantic -std=c99 \
 
 ## 👥 Integrantes do Grupo
  
-| Nome | Github |
+| Nome | Matricula |
 |---|---|
-| Danielle G. Ferreira | daniferreira05 |
-| ... | ... |
-| ... | ... |
-| ... | ... |
+| Danielle G. Ferreira | 202414081 |
+| Gustavo Caetano M. | 202414293 |
+| Ana Julia Flores C. V. | 202413900 |
+| Werisder de S. Bertoli | 202311527 |
  
 ---
 
