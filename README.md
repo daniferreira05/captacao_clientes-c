@@ -56,6 +56,8 @@ make
  
 ### Sem Makefile
 ```bash
+cd captacao
+
 gcc -Wall -Wextra -pedantic -std=c99 \
     main.c app.c lista_dupla.c fila.c pilha.c utils.c \
     -o captacao
